@@ -5,7 +5,7 @@
   "main": "server.js",
   "author": "Red Hat Training",
   "license": "ASL",
-  "dependencies": {
+  "dependency": {
     "express": "4.x",
     "html-errors": "latest"
   }
